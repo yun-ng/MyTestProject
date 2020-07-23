@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-23T23:23:14 MYT" name="Default suite" finished-at="2020-07-23T23:23:24 MYT" duration-ms="10331">
+    <groups>
+    </groups>
+    <test started-at="2020-07-23T23:23:14 MYT" name="Default test" finished-at="2020-07-23T23:23:24 MYT" duration-ms="10331">
+      <class name="automation.LaunchBrowser">
+        <test-method signature="LaunchAndChangeTabs()[pri:0, instance:automation.LaunchBrowser@4f638935]" started-at="2020-07-23T23:23:14 MYT" name="LaunchAndChangeTabs" finished-at="2020-07-23T23:23:24 MYT" duration-ms="10257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAndChangeTabs -->
+      </class> <!-- automation.LaunchBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
